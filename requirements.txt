@@ -4,3 +4,5 @@ SpeechRecognition
 ffmpeg-python
 numpy
 torch
+git+https://github.com/openai/whisper.git
+
