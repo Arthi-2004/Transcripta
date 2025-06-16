@@ -1,5 +1,6 @@
 streamlit
-git+https://github.com/openai/whisper.git
-torch
+openai-whisper
+SpeechRecognition
 ffmpeg-python
-openai
+numpy
+torch
